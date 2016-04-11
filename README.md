@@ -7,4 +7,7 @@ add some files
 remove some files
 overall: use the bare minimums of github
 
-This is take two. I had so make this line of changes becuase I did not follow the correct steps. 
+This is take two. I had so make this line of changes becuase I did not follow the correct steps.
+
+this is not pushing to GitHub!! why?
+
